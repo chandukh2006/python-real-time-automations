@@ -137,7 +137,7 @@ python_boto3_aws_cost_optimization/
 
 ---
 
-## 🌟 Why This Project Matters (To Recruiters)
+## 🌟 Why This Project Matters
 
 | ✅ Area | 💬 What It Proves |
 |--------|-------------------|
