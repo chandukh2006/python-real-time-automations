@@ -1,0 +1,11 @@
+#  Install Requirements
+
+# Create a virtual environment (optional but recommended)
+python3 -m venv venv
+source venv/bin/activate
+
+# Install required Python packages
+pip install boto3
+
+# (Optional) Freeze dependencies into requirements.txt
+pip freeze > requirements.txt
