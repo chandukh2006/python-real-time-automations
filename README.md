@@ -118,11 +118,11 @@ python3 lambda_function.py
 
 ## 🖼️ Example Screenshots
 
-| Setup Steps | Output After Deletion |
-|-------------|------------------------|
-| ![](screenshots/steps/setup.png) | ![](screenshots/result/result.png) |
+Refer to the `screenshots/` folder in the repo for:
 
----
+- Step-by-step Lambda deployment
+- Sample output logs and cost savings
+
 
 ## 📂 Folder Structure
 
